@@ -14,7 +14,7 @@
     <a href="https://docs.docker.com/get-docker/">
         <img src="https://img.shields.io/badge/Docker%20Desktop-Download-0150a2?style=for-the-badge&logo=docker&logoColor=white&labelColor=049cfc" alt="Download docker dekstop"></a>&nbsp;
     <a href="https://docs.docker.com/desktop/install/windows-install/">
-        <img src="https://img.shields.io/github/license/mariusbegby/cadence-discord-bot?style=for-the-badge&label=License&labelColor=1b1c1d&logo=github&logoColor=white&color=4c73df" alt="Install docker on windows"></a>&nbsp;
+        <img src="https://img.shields.io/badge/Docker%20on%20windows-Install-0150a2?style=for-the-badge&logo=windows&logoColor=white&labelColor=049cfc" alt="Install docker on windows"></a>&nbsp;
     <a href="https://docs.docker.com/engine/install/">
         <img src="https://img.shields.io/badge/Docker%20on%20linux-Install-0150a2?style=for-the-badge&logo=linux&logoColor=white&labelColor=049cfc" alt="Install docker on linux"></a>&nbsp;
     <a href="https://docs.docker.com/desktop/install/mac-install/">

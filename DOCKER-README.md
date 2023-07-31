@@ -2,7 +2,7 @@
     <br>
     Cadence - A free Discord music and audio bot
     <br><br>
-    <img src="./docker-cadence-128px.png" alt="docker-cadence icon">
+    <img src="docker-cadence-128px.png" alt="docker-cadence icon">
     <br><br>
 </h1>
 
